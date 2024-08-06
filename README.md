@@ -12,11 +12,11 @@ Welcome to the repository for the "Urban Bites" restaurant website! 🎉 This pr
 
 ## Live Demo 🌐
 
-Check out the live demo of TravelEase [here](https://aloukikjoshi.github.io/Restaurant-website/)
+Check out the live demo of Bharat ki Rasoi [here](https://sakshamtalwarr.github.io/Bharat-ki-Rasoi/)
 
 ## Introduction
 
-The "Urban Bites" restaurant website is designed to showcase a variety of features, including a responsive navigation bar, a visually appealing showcase area, details about the restaurant, a food section with different categories, a comprehensive food menu, customer testimonials, a contact form, and a footer. The website utilizes HTML for structure, CSS for styling, and JavaScript for smooth scrolling and interactivity.
+The "Bharat ki Rasoi" restaurant website is designed to showcase a variety of features, including a responsive navigation bar, a visually appealing showcase area, details about the restaurant, a food section with different categories, a comprehensive food menu, customer testimonials, a contact form, and a footer. The website utilizes HTML for structure, CSS for styling, and JavaScript for smooth scrolling and interactivity.
 
 ## Features
 
